@@ -9,7 +9,7 @@ $human = new Human('dariusaurich');
 
 echo 'Gender: '. $human->gender('Male');
 echo 'Name: '. $human->name('Darius');
-echo 'Discord: '. $human->discord('Darius A. | BlackServ#9744');
+echo 'Discord: '. $human->discord('WebDarius#9744');
 
 ?>
 ```
